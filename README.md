@@ -1,5 +1,8 @@
 <h1 align="center"> Scalant First Pr </h1>
 
+![Hacktoberfest](https://user-images.githubusercontent.com/97145602/195793773-1fb8df3b-b8f5-4203-ae4f-f1d8f895e115.png)
+
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <a href="https://github.com/ScalantCommunity/Scalant-First-pr/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ScalantCommunity/Scalant-First-pr?color=2b9348"></a>
