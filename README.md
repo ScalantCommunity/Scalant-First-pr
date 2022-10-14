@@ -27,13 +27,7 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Priyanshu Mundra</b></sub>
         </a>
         </td>
-       <td align="center" style="word-wrap: break-word; width: 200.0; height: 200.0">
-        <a href=https://github.com/dishant0406>
-            <img src=https://user-images.githubusercontent.com/97145602/195790549-51837043-3793-479d-a209-43bdc8bdd775.png>
-            <br />
-            <sub style="font-size:14px"><b>Dishant Sharma</b></sub>
-        </a>
-        </td>
+       
    </table>
    
 
