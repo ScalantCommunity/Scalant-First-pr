@@ -1,91 +1,79 @@
-# Contribution Guidelines
+# CONTRIBUTION GUIDE
 
-## Never made an open source contribution before? Wondering how contributions work in our project? Here's a quick rundown!
+If you are new to open-source contribution and don't know how to get started, don't worry, this is a deatiled step by step guide to help you make your first contribution.
+
+Before heading any further, open terminal and run `git --version` to make sure that git is installed on your machine, if not, install it from [here](https://git-scm.com/downloads).
 
 ## Fork this repository
 
-* Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+In order to make any changes to this repository, fork it by clicking on the fork button. This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-* Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now, to clone this repository to your local machine, copy the url of the forked repository.
 
-Open a terminal and run the following git command:
-
-```bash
-git clone "url you just copied"
-```
-
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). 
-
-```bash
-git clone https://github.com/ScalantCommunity/Scalant-First-pr.git
-```
-
-where `name` is your GitHub username. Here you're copying the contents of the Clone-IT repository on GitHub to your computer.
-
-## Navigate to the project directory
-
-* After cloning the project in your computer, navigate to the project file using the command below.
-
-```bash
-cd <cloned-repo>
-```
-
-## Add a reference(remote) to the original repository
-
-```bash
-git remote add upstream git clone https://github.com/ScalantCommunity/Scalant-First-pr
+Now, open a terminal and run the following command:
 
 ```
+git clone <copied- url>
+```
+Here, replace `<copied-url>` with the url of the forked repository you just copied.
 
-* Check the remotes for this repository.
+## Create a branch
 
-```bash
-git remote -v
+After cloning the repository, change the current working directory to the repository directory by running the following command:
+
+
+```
+cd Web-Development
+```
+Before making any changes, make sure to always create a new branch. To create a new brach run the following command:
+
+```
+git checkout -b branch-name
+```
+You can run `git branch` command to check your branch status.
+
+## Make changes
+
+Now you are all set to make changes. For that you can use any text editor, but I will recommend using Vs Code as it feature rich and easy to use. If VS Code is already installed on your machine, run the following command:
+
+```
+code .
+```
+It will open all the files in VS Code.
+
+After making the changes, run `git status` command. It will show you all the changes you have made.
+
+## Commit those changes
+
+Now, before commiting the changes you will have to add those changes to the branch you created. For that run the following command:
+```
+git add .
+````
+Now commit those changes by running the following command:
+```
+git commit -m "put-your-message-here"
 ```
 
-* Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+## Push to GitHub
 
-```bash
-git pull upstream main
+Finally push the changes you made to github by running the following command:
+
+```
+git push origin -u <your-branch-name>
 ```
 
-## Create a new branch
+Replace `<your-branch-name>` with the name of the branch you created earlier.
 
-```bash
-git checkout -b <your_branch_name>
-```
+## Submit the pull request
 
-* Perfom your desired changes to the code base.
+Now open your browser, here you will see a notification. Juslt click on **compare & pull request**.
 
-* Track your changes:heavy_check_mark: .
+Now submit the pull request.
 
-```bash
-git add . 
-```
+Soon your pull request will be reviewed and merged. You will be notified via email once your pull request has been merged.
 
-* Commit your changes .
+Congratulations!! You have successfully raised your first pull request. Share on your socials.
 
-```bash
-git commit -m "Relevant message"
-```
-
-* Push the committed changes in your feature branch to your remote repo.
-
-```bash
-git push -u origin <your_branch_name>
-```
-
-* To create a pull request, click on `compare and pull requests`.
-
-* Add appropriate title and description to your pull request explaining your changes and efforts done.
-
-* Click on `Create Pull Request`.
-
-* Congrats :exclamation: You have made a PR to the Scalant-First-PR :boom: . Wait for your submission to be accepted and your PR to be merged.
-
-* Wait for the pull request to be reviewed by a maintainer, Make changes to the pull request if the reviewing maintainer recommends them.
-
-* Hooray 🥳  your success after your pull request is merged!
+**Happy Contributing!!**
