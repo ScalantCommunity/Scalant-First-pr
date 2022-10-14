@@ -2,3 +2,30 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+<a href="https://github.com/ScalantCommunity/Scalant-First-pr/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ScalantCommunity/Scalant-First-pr?color=2b9348"></a>
+<a href="https://github.com/ScalantCommunity/Scalant-First-pr/blob/main/license"><img src="https://img.shields.io/github/license/ScalantCommunity/Scalant-First-pr?color=2b9348" alt="License Badge"/></a>
+<a hreaf="https://github.com/Scalantcommunityc/Scalant-First-pr/issues"><img src="https://img.shields.io/github/issues/Scalantcommunity/Scalant-First-pr?color=pink&logo=github"/></a>
+[![GitHub PRs](https://img.shields.io/github/issues-pr/Scalantcommunity/Scalant-First-pr?style=social&logo=github)](https://github.com/Scalantcommunity/Scalant-First-pr/pulls)           [![GitHub forks](https://img.shields.io/github/forks/Scalantcommunity/Scalant-First-pr?logo=git)](https://github.com/Scalantcommunity/Scalant-First-pr/network)                        
+
+
+Steps to contribute in this repository
+
+    1. Fork this repo
+    2. Create a new folder/directory for your projects
+    3. Add useful code for the open-source community
+    4. Make pull request
+    5. Now, it time for review (Don't worry, our team we will review your Pull Request(PR) within 6 hours.
+
+
+
+
+
+### Thanks for visiting!
+### Regards,
+### Team Scalant
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/scalant-official/)](https://www.linkedin.com/company/scalant-official/mycompany/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Scalantofficial/)](https://twitter.com/Scalantofficial/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/scalantofficial/)](https://www.instagram.com/scalantofficial/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/Scalantcommunity/)](https://www.github.com/Scalantcommunity/)
+[![views](https://komarev.com/ghpvc/?username=Scalantcommunity&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Scalantcommunity)
+
