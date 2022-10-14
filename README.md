@@ -1,6 +1,5 @@
 <h1 align="center"> Scalant First Pr </h1>
 
-![Hacktoberfest](https://user-images.githubusercontent.com/97145602/195793773-1fb8df3b-b8f5-4203-ae4f-f1d8f895e115.png)
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -19,19 +18,7 @@ Steps to contribute in this repository
     4. Make pull request
     5. Now, it time for review (Don't worry, our team we will review your Pull Request(PR) within 6 hours.
 
-## Maintainers (Our Team for HacktoberFest)
 
-<table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 200.0; height: 200.0">
-        <a href=https://github.com/Spyder15>
-            <img src=https://user-images.githubusercontent.com/97145602/194700119-a87642ce-505f-43dc-92fe-26b6ac632e8b.jpeg>
-            <br />
-            <sub style="font-size:14px"><b>Priyanshu Mundra</b></sub>
-        </a>
-        </td>
-       
-   </table>
    
 
 <h2 align=center> OUR VALUABLE CONTRIBUTORS✨ </h2>
